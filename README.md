@@ -7,7 +7,7 @@ Evaluate NYC restaurant inspection violations, grades, cuisines, boroughs, and g
 
 ## Dataset and definitions
 - Raw file: `DOHMH_New_York_City_Restaurant_Inspection_Results_20250919.csv`; raw records parsed: **288,888**.
-- Proxy inspection events: **91,316**; inspection dates **1900-01-01 00:00:00** through **2025-09-16 00:00:00**.
+- Analytical proxy inspection events: **91,316**, excluding **3,699** events dated `1900-01-01` as suspected administrative/default dates pending confirmation against the source Data Dictionary. The raw-source date range is **1900-01-01** to **2025-09-16**, while the analytical annual export begins in **2015**. See `nyc_inspection_placeholder_date_audit.csv` for the excluded records; raw source records are retained for auditing.
 - A source row generally represents an inspection-violation record, **not necessarily one inspection**.
 - An inspection event is approximated by `CAMIS + inspection date + inspection type`; repeated same-day inspections of one type may be merged. No verified encounter identifier exists.
 - Scores represent **violation points** (higher is worse), not satisfaction or performance points. Grade analysis includes A/B/C where present; unassigned/other grade events are counted separately.
