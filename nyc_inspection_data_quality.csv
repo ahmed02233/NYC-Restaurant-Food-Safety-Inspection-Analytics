@@ -1,2 +1,2 @@
 source_rows,missing_camis,missing_inspection_dates,unknown_borough_rows,missing_zip_rows,missing_street_rows,unknown_cuisine_rows,missing_grade_rows,missing_score_rows,no_violation_description_rows,missing_critical_flag_rows,earliest_inspection,latest_inspection
-13111,0,1,5,176,1,1212,7400,1863,1483,1,1900-01-01,2025-09-16
+288888,0,0,15,2908,0,3699,148044,15926,5851,0,1900-01-01,2025-09-16
