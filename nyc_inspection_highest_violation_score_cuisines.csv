@@ -1,0 +1,6 @@
+cuisine,inspection_events,graded_events,avg_violation_score,pct_a_among_abc,pct_events_with_critical
+BANGLADESHI,52,18,41.53,61.11,71.15
+AFRICAN,49,19,32.94,52.63,61.22
+TURKISH,34,11,30.71,63.64,50.0
+JEWISH/KOSHER,141,54,29.96,53.7,56.74
+INDIAN,163,56,29.17,60.71,65.03

@@ -1,0 +1,7 @@
+borough,inspection_events,events_with_critical,pct_events_with_critical,critical_violation_rows
+STATEN ISLAND,431,236,54.76,251.0
+QUEENS,2988,1625,54.38,1701.0
+BRONX,1091,587,53.8,606.0
+BROOKLYN,3246,1711,52.71,1769.0
+MANHATTAN,4587,2311,50.38,2412.0
+UNKNOWN,4,0,0.0,0.0

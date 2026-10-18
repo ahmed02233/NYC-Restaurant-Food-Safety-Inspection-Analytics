@@ -1,0 +1,26 @@
+violation_code,violation_description,mentions,critical_mentions,affected_inspection_proxy_keys
+10F,"Non-food contact surface or equipment made of unacceptable material, not kept clean, or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit.",1066,0,1066
+08A,"Establishment is not free of harborage or conditions conducive to rodents, insects or other pests.",1064,0,1064
+02B,Hot TCS food item not held at or above 140 °F.,1011,1011,1011
+04L,Evidence of mice or live mice in establishment's food or non-food areas.,819,819,819
+06D,"Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred.",740,740,740
+02G,Cold TCS food item held above 41 °F; smoked or processed fish held above 38 °F; intact raw eggs held above 45 °F; or reduced oxygen packaged (ROP) TCS foods held above required temperatures except during active necessary preparation.,449,449,449
+10B,Anti-siphonage or back-flow prevention device not provided where required; equipment or floor not properly drained; sewage disposal system in disrepair or not functioning properly. Condensation or liquid waste improperly disposed of.,425,0,425
+04A,Food Protection Certificate (FPC) not held by manager or supervisor of food operations.,364,364,364
+04M,Live roaches in facility's food or non-food area.,348,348,348
+06C,"Food, supplies, or equipment not protected from potential source of contamination during storage, preparation, transportation, display, service or from customer’s refillable, reusable container. Condiments not in single-service containers or dispensed directly by the vendor.",336,336,336
+04H,"Raw, cooked or prepared food is adulterated, contaminated, cross-contaminated, or not discarded in accordance with HACCP plan.",249,249,249
+04N,"Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment’s food and/or non-food areas. FRSA flies include house flies, blow flies, bottle flies, flesh flies, drain flies, Phorid flies and fruit flies.",240,240,240
+06F,"Wiping cloths not stored clean and dry, or in a sanitizing solution, between uses.",234,234,234
+09B,Thawing procedure improper.,230,0,230
+10G,"Dishwashing and ware washing: Cleaning and sanitizing of tableware, including dishes, utensils, and equipment deficient.",215,0,215
+06E,"Sanitized equipment or utensil, including in-use food dispensing utensil, improperly used or stored.",203,203,203
+04K,Evidence of rats or live rats in establishment's food or non-food areas.,168,168,168
+08C,"Pesticide not properly labeled or used by unlicensed individual. Pesticide, other toxic chemical improperly used/stored. Unprotected, unlocked bait station used.",142,0,142
+04L,Evidence of mice or live mice present in facility's food and/or non-food areas.,125,125,125
+02B,Hot food item not held at or above 140º F.,120,120,120
+08A,Facility not vermin proof. Harborage or conditions conducive to attracting vermin to the premises and/or allowing vermin to exist.,119,0,119
+20-06,Current letter grade or Grade Pending card not posted,115,0,115
+09E,Wash hands sign not posted near or above hand washing sink.,114,0,114
+05D,"No hand washing facility in or adjacent to toilet room or within 25 feet of a food preparation, food service or ware washing area. Hand washing facility not accessible, obstructed or used for non-hand washing purposes. No hot and cold running water or water at inadequate pressure. No soap or acceptable hand-drying device.",113,113,113
+10E,"Accurate thermometer not provided or properly located in refrigerated, cold storage or hot holding equipment",107,0,107

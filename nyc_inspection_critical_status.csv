@@ -1,0 +1,4 @@
+critical_status,violation_rows
+CRITICAL,6739
+NOT CRITICAL,4809
+OTHER/UNKNOWN,80

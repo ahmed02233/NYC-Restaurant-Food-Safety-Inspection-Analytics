@@ -1,0 +1,7 @@
+borough,inspection_events,graded_events,grade_a,pct_a_among_abc,avg_violation_score,critical_violation_rows,pct_events_with_critical
+MANHATTAN,4587,1818,1430,78.66,22.85,2412.0,50.38
+BROOKLYN,3246,1244,935,75.16,24.56,1769.0,52.71
+QUEENS,2988,1159,847,73.08,25.71,1701.0,54.38
+BRONX,1091,450,339,75.33,22.91,606.0,53.8
+STATEN ISLAND,431,183,142,77.6,21.4,251.0,54.76
+UNKNOWN,4,0,0,,,0.0,0.0
